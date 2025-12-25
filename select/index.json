@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Santa Claus Is Comin' To Town (Official Audio)",
+  "base_artist": "Bruce Springsteen",
+  "createdAt": "2025-12-25T11:31:04.494702Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Santa Claus Is Comin' to Town",
+      "artist": "Rockapella",
+      "has_synced": true,
+      "path": "select/01_Santa_Claus_Is_Comin'_to_Town_Rockapella.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Santa Claus Is Comin' to Town",
+      "artist": "Lawrence",
+      "has_synced": true,
+      "path": "select/02_Santa_Claus_Is_Comin'_to_Town_Lawrence.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Santa Claus Is Comin' to Town",
+      "artist": "jschlatt",
+      "has_synced": true,
+      "path": "select/03_Santa_Claus_Is_Comin'_to_Town_jschlatt.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Santa Claus Is Comin' to Town",
+      "artist": "MariahCareyVEVO",
+      "has_synced": true,
+      "path": "select/04_Santa_Claus_Is_Comin'_to_Town_MariahCareyVEVO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Santa Claus Is Comin' To Town",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/05_Santa_Claus_Is_Comin'_To_Town_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Santa Claus Is Comin' to Town",
+      "artist": "Broilers",
+      "has_synced": true,
+      "path": "select/06_Santa_Claus_Is_Comin'_to_Town_Broilers.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Santa Claus Is Comin' To Town",
+      "artist": "Don McLean",
+      "has_synced": false,
+      "path": "select/07_Santa_Claus_Is_Comin'_To_Town_Don_McLean.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Santa Claus Is Comin’ to Town",
+      "artist": "Aloe Blacc",
+      "has_synced": true,
+      "path": "select/08_Santa_Claus_Is_Comin’_to_Town_Aloe_Blacc.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Santa Claus Is Comin' To Town",
+      "artist": "Burl Ives",
+      "has_synced": true,
+      "path": "select/09_Santa_Claus_Is_Comin'_To_Town_Burl_Ives.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Santa Claus Is Comin' To Town",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/10_Santa_Claus_Is_Comin'_To_Town_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Santa Claus Is Comin' To Town",
+      "artist": "Bing Crosby",
+      "has_synced": false,
+      "path": "select/11_Santa_Claus_Is_Comin'_To_Town_Bing_Crosby.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Santa Claus Is Comin' to Town",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/12_Santa_Claus_Is_Comin'_to_Town_Mariah_Carey.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Santa Claus Is Comin To Town",
+      "artist": "Ray Charles",
+      "has_synced": false,
+      "path": "select/13_Santa_Claus_Is_Comin_To_Town_Ray_Charles.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Santa Claus Is Comin' to Town",
+      "artist": "Frank Sinatra",
+      "has_synced": true,
+      "path": "select/14_Santa_Claus_Is_Comin'_to_Town_Frank_Sinatra.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Santa Claus Is Comin' To Town",
+      "artist": "Ray Conniff",
+      "has_synced": false,
+      "path": "select/15_Santa_Claus_Is_Comin'_To_Town_Ray_Conniff.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Santa Claus Is Comin’ to Town",
+      "artist": "Mariah Carey",
+      "has_synced": true,
+      "path": "select/16_Santa_Claus_Is_Comin’_to_Town_Mariah_Carey.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Santa Claus Is Comin' to Town (Single Version)",
+      "artist": "Bruce Springsteen",
+      "has_synced": false,
+      "path": "select/pl_01_Santa_Claus_Is_Comin'_to_Town_(Single_Version)_Bruce_Springsteen.txt"
+    }
+  ]
+}
