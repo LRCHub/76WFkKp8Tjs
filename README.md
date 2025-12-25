@@ -1,0 +1,62 @@
+# Bruce Springsteen – Santa Claus Is Comin' To Town (Official Audio)
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+You’d better watch out, you’d
+better not cry
+You’d better not pout, I’m
+telling you why
+Santa Claus is coming to town
+Santa Claus is coming to town
+Santa Claus is coming to town
+He’s making a list, he’s
+checkin’ it twice
+He’s gonna find out whose
+daughter you’re nice
+Santa Claus is coming to town
+Santa Claus is coming to town
+Santa Claus is coming to town
+He sees you when you’re
+sleeping
+He knows if you’re awake
+He knows if you’ve
+been bad or good
+so you’d better be good for
+goodness sake
+Better be good for goodness sake
+You’d better watch out, you’d
+better not cry
+You’d better not pout, I’m
+telling you why
+Santa Claus is coming to town
+Santa Claus is coming to town
+Santa Claus is coming to town
+He sees you when you’re
+sleeping
+He knows if you’re awake
+He knows if you’ve
+been bad or good
+so you’d better be good for
+goodness sake
+Better be good for goodness sake
+You’d better watch out, you’d
+better not cry
+You’d better not pout, I’m
+telling you why
+Santa Claus is coming to town
+Santa Claus is coming to town
+Santa Claus is coming to town
+Santa Claus is coming to town
+Santa Claus is coming to town
+Santa Claus is coming to town
+Santa Claus is coming to town
+Santa Claus is coming to town
+Santa Claus is coming to town
+Santa Claus is coming to town
+Santa Claus is coming to town
+Santa Claus is coming to town
+Santa Claus is coming to town
+Santa Claus is coming to town
+Santa Claus is coming to town
+```
